@@ -12,5 +12,6 @@ Build your own car using Raspberry Pi 3
     3. L293D Motor Driver IC(To control 2 DC motors at a time)
     4. Jumper wires.
     5. Bread board(For beginners)
+    6. Last but not the least, Four wheels and a car frame(The design is upto you :))
   
 #I'll be updating the things to need and all the resources once I prepare a detailed plan for the project
