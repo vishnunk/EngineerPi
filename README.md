@@ -6,7 +6,7 @@ Build your own car using Raspberry Pi 3
   2. USB To TTL Converter or Serial Cable. (You can also make one of your own, Please google)
   3. Ethernet Cable (Not needed if your Pi supports WiFi)
   
-  ### Things you need for a basic car:
+  ## Things you need for a basic car:
     1. DC Motor (Mine is 200RPM, Try to get a light weight DC Motor)
     2. Battery (Based on you DC Motor, I'm using 9V battery)
     3. L293D Motor Driver IC(To control 2 DC motors at a time)
