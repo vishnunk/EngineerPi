@@ -1,0 +1,5 @@
+EngineerPi - PiCar-1.0
+
+1. Basic Navigation Control
+	Forward, Left, Right, Reverse
+	Stop
