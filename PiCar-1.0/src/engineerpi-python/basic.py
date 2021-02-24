@@ -97,7 +97,7 @@ while(1):
     operation = raw_input()
     if operation == 'w':
         piforward()
-    elif operation == 'a'"
+    elif operation == 'a':
         pileft()
     elif operation == 's':
         pireverse()
